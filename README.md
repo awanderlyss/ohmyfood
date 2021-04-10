@@ -1,4 +1,6 @@
-# ohmyfood
+# Project 3: Integrate a mobile website with animations in CSS
+Project URL: https://alyssafelix.com/ohmyfood/
+
 
 ## Fonts
 Logo and Title: Shrikhand
@@ -8,6 +10,7 @@ Text:           Roboto
 
 font-family: 'Roboto', sans-serif;
 font-family: 'Shrikhand', cursive;
+
 
 ## Colors
 Primary:   #9356DC
