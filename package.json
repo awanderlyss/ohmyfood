@@ -1,0 +1,19 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "Project URL: https://alyssafelix.com/ohmyfood/",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awanderlyss/ohmyfood.git"
+  },
+  "author": "Alyssa Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awanderlyss/ohmyfood/issues"
+  },
+  "homepage": "https://github.com/awanderlyss/ohmyfood#readme"
+}
